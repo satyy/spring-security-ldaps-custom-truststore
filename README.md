@@ -1,1 +1,1 @@
-# spring-security-ldaps-custom-truststore
+# spring-security-ldap(s)-custom-truststore
